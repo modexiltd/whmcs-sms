@@ -1,4 +1,4 @@
-whmcs-sms
+WHMCS SMS
 =========
 
 Hemenposta WHMCS SMS Modül
